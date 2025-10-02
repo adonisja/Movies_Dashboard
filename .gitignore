@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+.ds_venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Data files (optional, if you want to ignore all data)
+data/
+*.csv
+*.tsv
+*.xlsx
+
+# Logs
+*.log
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Streamlit cache
+.streamlit/
+
+# Other
+*.bak
+*.swp
+.python-version
