@@ -19,7 +19,7 @@ venv/
 .DS_Store
 
 # Data files (optional, if you want to ignore all data)
-data/
+# data/
 *.csv
 *.tsv
 *.xlsx
